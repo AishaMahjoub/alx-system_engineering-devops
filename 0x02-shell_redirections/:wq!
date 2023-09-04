@@ -1,0 +1,3 @@
+#!/bin/bash
+egrep ^[[:upper:]] /etc/ssh/sshd_config
+
